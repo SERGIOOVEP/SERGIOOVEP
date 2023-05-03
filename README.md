@@ -1,4 +1,4 @@
-<h1 align="center">Hola! Sergio</h1>
+<h1 align="center">Hola!Soy Sergio</h1>
 <h3 align="center">Soy fullstack y aquí puedes ver algunos de mis proyectos</h3>
 
 - 📫 Contacta conmigo **sergio.ove.pas@gmail.com**
